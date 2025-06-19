@@ -1,0 +1,10 @@
+234|Le Minh Tu|21
+786|Pham Thi Mai|20
+5423|Nguyen Thi Lan|22
+8765|Tran Hoang Duy|24
+1298|Hoang Thi Lan|22
+7634|Vu Minh Anh|20
+4432|Pham Thi Thu|23
+5571|Le Thi Thanh|25
+6342|Nguyen Minh Phat|21
+9012|Tran Thi Hai|22
