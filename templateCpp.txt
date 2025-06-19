@@ -1,0 +1,24 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+
+#define ll long long
+#define f0(i, n) for(int i=0;i<=n;i++)
+#define f1(i, n) for(int i=1;i<=n;i++)
+
+#define randivec(n, a) vector<int> a(n); srand(time(NULL)); f0(i, n-1) a[i] = rand()%100;
+#define maxn
+
+int main() {
+    
+    ios::sync_with_stdio(false);
+    cin.tie(NULL);
+    
+    #ifndef MYIO
+    freopen("input.txt","r",stdin);
+    freopen("output.txt","w",stdout);
+    #endif    
+
+    return 0;
+}
+    
